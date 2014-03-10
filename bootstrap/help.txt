@@ -1,0 +1,1 @@
+header>(nav>ul>li*5>a)^(section>(article>p*2)+(article>p*2))+(aside>(ul>li*3>a))+(footer>p)
