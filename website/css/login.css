@@ -1,0 +1,15 @@
+html{
+	margin: 0px;
+	padding: 0px;
+}
+.loginbox{
+	border-radius: 4px;
+	box-shadow: 0px 2px 10px #d6d6d6;
+	width: 320px;
+	margin: 50px auto;
+	-webki-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+input[type="submit"]{
+	margin-top: 10px;
+}
